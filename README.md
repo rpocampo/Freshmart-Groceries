@@ -1,6 +1,6 @@
 # FreshMart Integrated Enterprise System
 
-## A user-friendly habit tracker web app to help you set goals, track progress, and build positive routines effortlessly.
+## A simple implementation of Service Oriented Architecture (SOA) using nodejs
 
 FreshMart is a fictitious grocery store for which this project provides an Integrated Enterprise System. The system includes the following key services:
 * ### Point of Sale (POS)
